@@ -1,0 +1,40 @@
+body {
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 20px;
+}
+
+pre {
+    background-color: #e7e7e7;
+  }
+
+.tag {
+    color: #960101;
+    background-color: #e7e7e7;
+}
+
+.content {
+    color: black;
+}
+
+h1,
+h2 
+{
+    text-align: center;
+}
+
+.line {
+    display: block;
+    height: 1px;
+    background-color: #b2b2b2;
+}
+
+.navigation-tag {
+    color:lightseagreen;
+    background-color: #e7e7e7;
+}
+
+.navigation-tags {
+    margin-top: 10px;
+    font-size: small;
+}
